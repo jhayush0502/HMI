@@ -1,6 +1,6 @@
 # HMI
 
-for npm modules-> npm install -h npm@9.2.0
+for npm modules-> npm install -g npm@9.2.0
 
 for creating react app -> npm init react-app handpose
 
